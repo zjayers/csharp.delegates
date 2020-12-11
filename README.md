@@ -1,8 +1,7 @@
 # Csharp Delegates
-[![GitHub Release](https://img.shields.io/github/release/zjayers/csharp.delegates.svg?style=flat)]()
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/csharp.delegates.svg?style=flat)]()
+[![GitHub Release](https://img.shields.io/github/release/zjayers/csharp.delegates.svg?style=flat)](https://github.com/zjayers/csharp.delegates/releases)
+[![GitHub pull requests](https://img.shields.io/github/issues-pr/zjayers/csharp.delegates.svg?style=flat)](https://github.com/zjayers/csharp.delegates/pulls)
 [![Issues](https://img.shields.io/github/issues-raw/zjayers/csharp.delegates.svg?maxAge=25000)](https://github.com/zjayers/csharp.delegates/issues)
-[![MIT License](https://img.shields.io/apm/l/atomic-ui.svg?)](https://github.com/zjayers/csharp.delegates/blob/master/LICENSEs)
 
 ## Description
 
